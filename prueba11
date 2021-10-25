@@ -1,0 +1,6 @@
+print ("ingrese el primer numero")
+numero1=float(input())
+print("ingrese el segundo numero")
+numero2=float(input())
+multipl = numero1 * numero2
+print("el valor es: ",multipl)
